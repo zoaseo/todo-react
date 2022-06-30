@@ -1,0 +1,47 @@
+* {padding: 0; margin: 0 auto;box-sizing: border-box;}
+#wrap {
+    width: 1000px;
+    height: 150px;
+    background-color: red;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+h1 {
+    color: #fff;
+}
+input {
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    padding: 10px 20px;
+    width: 600px;
+}
+button {
+    border: none;
+    background-color: #fff;
+    padding: 3px 10px;
+    font-size: 20px;
+    border-radius: 100%;
+    margin-left: 20px;
+}
+#lists {
+    background-color: #eee;
+    width: 1000px;
+    text-align: left;
+}
+#lists div {
+    padding: 10px 50px;
+    font-size: 20px;
+}
+.active {
+    background-color: #ccc;
+    border-radius: 5px;
+    padding: 0 5px;
+}
+#btn {
+    border: none;
+    background-color: #fff;
+    padding: 1px 7px;
+    font-size: 15px;
+    border-radius: 100%;
+}
